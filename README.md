@@ -13,6 +13,8 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/utsav_17)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/dragonite19)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/TheCodeDominator)
+[![CodingNinjas](https://img.shields.io/badge/Coding%20Ninjas-%23DD6620.svg?logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/BEAST_17)
+
 
 
 # 💻 Tech Stack:
