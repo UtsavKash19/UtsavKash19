@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Utsav Kashyap</h1>
-<h3 align="center">Full Stack Developer & Competitive Programmer</h3>
+<h3 align="center">A passionate Full Stack Developer & Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Progress%20Happens%20When%20No%20One%20Is%20Watching" alt="Typing introduction" />
