@@ -16,15 +16,16 @@
 <!-- # 👋 Hi, I'm Utsav Kashyap! -->
 🔭 I’m currently working on<br>Full-stack web applications, cloud-ready backend systems, and competitive programming (C++ / DSA)<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web platforms, REST APIs, cloud & DevOps projects, and competitive programming tools<br><br>🤝 I’m looking for help with<br>Advanced system design, scalable cloud architectures, and large-scale distributed systems<br><br>🌱 I’m currently learning<br>AWS & OCI cloud services, Docker & Kubernetes, system design, and backend scalability<br><br>💬 Ask me about<br>C++, DSA, Competitive Programming (CodeChef / LeetCode / CodeForces), Web Development, APIs, Databases, Cloud & DevOps<br><br>⚡ Fun fact(aka the flex 😄)<br>6⭐ CodeChef (Max 2480) | 🏆 AIR #1 in CodeChef Starters (189 & 204) | 💻 Codeforces Expert (Max 1790) | Solved 2500+ DSA problems 🚀
 
-<!-- ## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavKash19&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="UtsavKash19's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=UtsavKash19&theme=radical&hide_border=true&cache_seconds=86400" alt="UtsavKash19's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=UtsavKash19&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=UtsavKash19&theme=radical" height="165" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavKash19&theme=radical&radius=10" alt="UtsavKash19's Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=UtsavKash19&layout=compact&theme=radical" height="165" />
 </p>
--->
+
 
 ## 🌐 Connect with me:
 <p align="left">
