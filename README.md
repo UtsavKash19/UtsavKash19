@@ -18,12 +18,13 @@
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360" />
 </div> -->
 
-<div style="display:flex; justify-content:center; align-items:center; gap:30px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
        style="width:450px; height:400px; object-fit:cover;" />
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
        style="width:450px; height:400px; object-fit:cover;" />
 </div>
+
 
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
