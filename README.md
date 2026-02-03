@@ -5,13 +5,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Progress%20Happens%20When%20No%20One%20Is%20Watching" alt="Typing introduction" />
 </p>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=UtsavKash19">
     <img src="https://komarev.com/ghpvc/?username=UtsavKash19&label=Profile%20views&color=00FFFF&style=flat-square" alt="UtsavKash19's profile views" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360" />
+</div> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
 
 <!-- # 👋 Hi, I'm Utsav Kashyap! -->
 🔭 I’m currently working on<br>Full-stack web applications, cloud-ready backend systems, and competitive programming (C++ / DSA)<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web platforms, REST APIs, cloud & DevOps projects, and competitive programming tools<br><br>🤝 I’m looking for help with<br>Advanced system design, scalable cloud architectures, and large-scale distributed systems<br><br>🌱 I’m currently learning<br>AWS & OCI cloud services, Docker & Kubernetes, system design, and backend scalability<br><br>💬 Ask me about<br>C++, DSA, Competitive Programming (CodeChef / LeetCode / CodeForces), Web Development, APIs, Databases, Cloud & DevOps<br><br>⚡ Fun fact(aka the flex 😄)<br>6⭐ CodeChef (Max 2480) | 🏆 AIR #1 in CodeChef Starters (189 & 204) | 💻 Codeforces Expert (Max 1790) | Solved 2500+ DSA problems 🚀
