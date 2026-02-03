@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360" />
+  <!--<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360" /> -->
 </div>
 
 <!-- <div style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
