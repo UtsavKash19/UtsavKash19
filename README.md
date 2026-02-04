@@ -42,6 +42,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=UtsavKash19&layout=compact&theme=radical" height="165" />
 </p>
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavKash19&theme=monokai&radius=10" alt="UtsavKash19's Activity Graph" />
+</p>
 
 ## 🌐 Connect with me:
 <p align="left">
