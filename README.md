@@ -7,11 +7,19 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
+
+
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=UtsavKash19">
+    <img src="https://komarev.com/ghpvc/?username=UtsavKash19&label=Profile%20views&color=0e75b6&style=flat-square" alt="UtsavKash19's profile views" />
+  </a>
+</p>
+
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=UtsavKash19">
     <img src="https://komarev.com/ghpvc/?username=UtsavKash19&label=Profile%20views&color=00FFFF&style=flat-square" alt="UtsavKash19's profile views" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
