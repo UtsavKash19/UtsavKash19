@@ -84,22 +84,18 @@ def about_me():
 
 <div align="center">
 
-<a href="https://github.com/UtsavKash19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UtsavKash19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</a>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UtsavKash19&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 
-<a href="https://github.com/UtsavKash19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavKash19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</a>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavKash19&layout=compact&theme=radical&langs_count=8" />
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavKash19&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavKash19&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavKash19&theme=tokyo-night&radius=10&hide_border=true" alt="Activity Graph" />
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UtsavKash19&theme=radical&area=true" />
 </p>
 
 ---
