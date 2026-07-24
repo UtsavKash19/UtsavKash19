@@ -102,25 +102,6 @@ def about_me():
 
 ## ⭐ Featured Projects
 
-<div align="center">
-
-### 🎯 [Sowaka Feedback Tool](https://github.com/UtsavKash19/sowaka-feedback-tool)
-**Performance Evaluation & Management Platform**
-
-A comprehensive performance evaluation system designed for managing feedback across companies with different organizational hierarchies.
-
-- ✨ Multi-company support with hierarchical structures
-- 📊 Monthly feedback cycles with 5 fixed parameters  
-- 👥 Manager & HR dashboards with real-time tracking
-- 🔐 Secure authentication & role-based access
-
-**Tech Stack:** `Next.js` `React` `PostgreSQL` `Prisma` `Node.js`
-
-![Project Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/UtsavKash19/sowaka-feedback-tool?style=flat-square)
-
----
-
 ### 📚 [DSA Code Snippets](https://github.com/UtsavKash19/DSA-Codes-Snippets)
 **Comprehensive Data Structures & Algorithms Repository**
 
